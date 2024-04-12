@@ -58,7 +58,7 @@ This is a book search engine application built using the MERN stack (MongoDB, Ex
 
 ## Deployment
 
-The application is deployed at [YOUR_DEPLOYED_URL]. Visit the live URL to use the application.
+The application is deployed at (LIVE URL🌍)[https://book-search-engine-1-fjko.onrender.com/] Visit the live URL to use the application.
 
 ## Contributing
 

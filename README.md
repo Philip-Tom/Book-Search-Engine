@@ -72,5 +72,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 
 ## Contact
-- Email :
-- Github :
+- [Github](https://github.com/Philip-Tom/Book-Search-Engine)
